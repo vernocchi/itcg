@@ -25,11 +25,13 @@
     <option_android_build_version>0</option_android_build_version>
     <option_android_color_depth>0</option_android_color_depth>
     <option_android_compile_sdk_version>23</option_android_compile_sdk_version>
-    <option_android_display_name>itcg_game</option_android_display_name>
+    <option_android_display_name>newtutorial_platformer</option_android_display_name>
     <option_android_facebook_app_display_name></option_android_facebook_app_display_name>
     <option_android_facebook_appid></option_android_facebook_appid>
     <option_android_facebook_enable>false</option_android_facebook_enable>
     <option_android_flurry_analytics>false</option_android_flurry_analytics>
+    <option_android_flurry_enable>false</option_android_flurry_enable>
+    <option_android_flurry_id></option_android_flurry_id>
     <option_android_google_analytics>false</option_android_google_analytics>
     <option_android_google_analytics_enable>false</option_android_google_analytics_enable>
     <option_android_google_mobile_ads>false</option_android_google_mobile_ads>
@@ -39,12 +41,19 @@
     <option_android_google_tracking_id></option_android_google_tracking_id>
     <option_android_iap_suppress_toast>false</option_android_iap_suppress_toast>
     <option_android_icade_support>true</option_android_icade_support>
+    <option_android_icon_170>Configs\Default\android\icons\icon170.png</option_android_icon_170>
+    <option_android_icon_36>Configs\Default\android\icons\icon36.png</option_android_icon_36>
+    <option_android_icon_48>Configs\Default\android\icons\icon48.png</option_android_icon_48>
+    <option_android_icon_72>Configs\Default\android\icons\icon72.png</option_android_icon_72>
     <option_android_icon_hdpi>Configs\Default\android\icons\icon_hdpi.png</option_android_icon_hdpi>
     <option_android_icon_ldpi>Configs\Default\android\icons\icon_ldpi.png</option_android_icon_ldpi>
     <option_android_icon_mdpi>Configs\Default\android\icons\icon_mdpi.png</option_android_icon_mdpi>
     <option_android_icon_xhdpi>Configs\Default\android\icons\icon_xhdpi.png</option_android_icon_xhdpi>
     <option_android_icon_xxhdpi>Configs\Default\android\icons\icon_xxhdpi.png</option_android_icon_xxhdpi>
     <option_android_icon_xxxhdpi>Configs\Default\android\icons\icon_xxxhdpi.png</option_android_icon_xxxhdpi>
+    <option_android_inmobi_enable>false</option_android_inmobi_enable>
+    <option_android_inmobi_id></option_android_inmobi_id>
+    <option_android_inmobi_test_enable>false</option_android_inmobi_test_enable>
     <option_android_install_location>auto</option_android_install_location>
     <option_android_interpolate>true</option_android_interpolate>
     <option_android_licensing_enable>false</option_android_licensing_enable>
@@ -53,6 +62,13 @@
     <option_android_min_sdk_version>9</option_android_min_sdk_version>
     <option_android_minor_version>0</option_android_minor_version>
     <option_android_mmedia_ads>false</option_android_mmedia_ads>
+    <option_android_mobage>false</option_android_mobage>
+    <option_android_mobage_appkey></option_android_mobage_appkey>
+    <option_android_mobage_extension_location></option_android_mobage_extension_location>
+    <option_android_mobage_key></option_android_mobage_key>
+    <option_android_mobage_sandbox>false</option_android_mobage_sandbox>
+    <option_android_mobage_secret></option_android_mobage_secret>
+    <option_android_mobage_version></option_android_mobage_version>
     <option_android_moga>false</option_android_moga>
     <option_android_mopub_ads>false</option_android_mopub_ads>
     <option_android_orient_landscape>true</option_android_orient_landscape>
@@ -63,7 +79,7 @@
     <option_android_ouya_icon>Configs\Default\android\icons\ouyaIcon.png</option_android_ouya_icon>
     <option_android_package_company>companyname</option_android_package_company>
     <option_android_package_domain>com</option_android_package_domain>
-    <option_android_package_product>itcg_game</option_android_package_product>
+    <option_android_package_product>newtutorial_platformer</option_android_package_product>
     <option_android_permission_flags>8</option_android_permission_flags>
     <option_android_pocketchange_enable>false</option_android_pocketchange_enable>
     <option_android_pocketchange_id></option_android_pocketchange_id>
@@ -76,7 +92,7 @@
     <option_android_splash_png>Configs\Default\android\splash.png</option_android_splash_png>
     <option_android_splash_time>0</option_android_splash_time>
     <option_android_support_lib_version>23.1.1</option_android_support_lib_version>
-    <option_android_target_sdk_version>23</option_android_target_sdk_version>
+    <option_android_target_sdk_version>16</option_android_target_sdk_version>
     <option_android_texture_page>1024</option_android_texture_page>
     <option_android_use_test_ads>false</option_android_use_test_ads>
     <option_androidfire_GPU_device>0</option_androidfire_GPU_device>
@@ -102,7 +118,7 @@
     <option_androidfire_build_version>0</option_androidfire_build_version>
     <option_androidfire_color_depth>0</option_androidfire_color_depth>
     <option_androidfire_compile_sdk_version>23</option_androidfire_compile_sdk_version>
-    <option_androidfire_display_name>itcg_game</option_androidfire_display_name>
+    <option_androidfire_display_name>newtutorial_platformer</option_androidfire_display_name>
     <option_androidfire_facebook_app_display_name></option_androidfire_facebook_app_display_name>
     <option_androidfire_facebook_appid></option_androidfire_facebook_appid>
     <option_androidfire_facebook_enable>false</option_androidfire_facebook_enable>
@@ -133,14 +149,14 @@
     <option_androidfire_orient_portrait_flipped>true</option_androidfire_orient_portrait_flipped>
     <option_androidfire_package_company>companyname</option_androidfire_package_company>
     <option_androidfire_package_domain>com</option_androidfire_package_domain>
-    <option_androidfire_package_product>itcg_game</option_androidfire_package_product>
+    <option_androidfire_package_product>newtutorial_platformer</option_androidfire_package_product>
     <option_androidfire_permission_flags>8</option_androidfire_permission_flags>
     <option_androidfire_portrait_splash_png>Configs\Default\amazonfire\portrait_splash.png</option_androidfire_portrait_splash_png>
     <option_androidfire_push_enable>false</option_androidfire_push_enable>
     <option_androidfire_push_id></option_androidfire_push_id>
     <option_androidfire_scale>-1</option_androidfire_scale>
     <option_androidfire_set_device_id></option_androidfire_set_device_id>
-    <option_androidfire_small_icon_png>Configs\Default\amazonfire\icons\small_icon</option_androidfire_small_icon_png>
+    <option_androidfire_small_icon_png>Configs\Default\amazonfire\icons\small_icon.png</option_androidfire_small_icon_png>
     <option_androidfire_splash_png>Configs\Default\amazonfire\splash.png</option_androidfire_splash_png>
     <option_androidfire_splash_time>0</option_androidfire_splash_time>
     <option_androidfire_support_lib_version>23.1.1</option_androidfire_support_lib_version>
@@ -170,7 +186,7 @@
     <option_androidtv_build_version>0</option_androidtv_build_version>
     <option_androidtv_color_depth>0</option_androidtv_color_depth>
     <option_androidtv_compile_sdk_version>23</option_androidtv_compile_sdk_version>
-    <option_androidtv_display_name>itcg_game</option_androidtv_display_name>
+    <option_androidtv_display_name>newtutorial_platformer</option_androidtv_display_name>
     <option_androidtv_facebook_app_display_name></option_androidtv_facebook_app_display_name>
     <option_androidtv_facebook_appid></option_androidtv_facebook_appid>
     <option_androidtv_facebook_enable>false</option_androidtv_facebook_enable>
@@ -196,13 +212,13 @@
     <option_androidtv_moga>false</option_androidtv_moga>
     <option_androidtv_package_company>companyname</option_androidtv_package_company>
     <option_androidtv_package_domain>com</option_androidtv_package_domain>
-    <option_androidtv_package_product>itcg_game</option_androidtv_package_product>
+    <option_androidtv_package_product>newtutorial_platformer</option_androidtv_package_product>
     <option_androidtv_permission_flags>8</option_androidtv_permission_flags>
     <option_androidtv_push_enable>false</option_androidtv_push_enable>
     <option_androidtv_push_id></option_androidtv_push_id>
     <option_androidtv_scale>-1</option_androidtv_scale>
     <option_androidtv_set_device_id></option_androidtv_set_device_id>
-    <option_androidtv_small_icon_png>Configs\Default\androidtv\icons\small_icon</option_androidtv_small_icon_png>
+    <option_androidtv_small_icon_png>Configs\Default\androidtv\icons\small_icon.png</option_androidtv_small_icon_png>
     <option_androidtv_splash_png>Configs\Default\androidtv\splash.png</option_androidtv_splash_png>
     <option_androidtv_support_lib_version>23.1.1</option_androidtv_support_lib_version>
     <option_androidtv_texture_page>1024</option_androidtv_texture_page>
@@ -226,13 +242,13 @@
     <option_frequency>0</option_frequency>
     <option_frontimage>nil</option_frontimage>
     <option_fullscreen>false</option_fullscreen>
-    <option_gameguid>{B994CFE5-F907-4C7D-B462-0DE2EDBFCCF9}</option_gameguid>
-    <option_gameid>334746096</option_gameid>
+    <option_gameguid>{F15FB55B-0198-45FC-83D0-D6BEEC0FF46C}</option_gameguid>
+    <option_gameid>661296058</option_gameid>
     <option_haptic_effects>false</option_haptic_effects>
     <option_hasloadimage>false</option_hasloadimage>
     <option_helpkey>true</option_helpkey>
     <option_html5_CreationEventOrder>true</option_html5_CreationEventOrder>
-    <option_html5_WebGL>2</option_html5_WebGL>
+    <option_html5_WebGL>0</option_html5_WebGL>
     <option_html5_advertising_enable>false</option_html5_advertising_enable>
     <option_html5_advertising_key></option_html5_advertising_key>
     <option_html5_advertising_type>Supersonic Ads</option_html5_advertising_type>
@@ -255,7 +271,7 @@
     <option_html5_jsprepend></option_html5_jsprepend>
     <option_html5_loadingbar>-1</option_html5_loadingbar>
     <option_html5_localrunalert>true</option_html5_localrunalert>
-    <option_html5_outputdebugtoconsole>true</option_html5_outputdebugtoconsole>
+    <option_html5_outputdebugtoconsole>false</option_html5_outputdebugtoconsole>
     <option_html5_outputname>index.html</option_html5_outputname>
     <option_html5_scale>-1</option_html5_scale>
     <option_html5_showcursor>true</option_html5_showcursor>
@@ -278,7 +294,7 @@
     <option_ios_build_version>0</option_ios_build_version>
     <option_ios_certificate></option_ios_certificate>
     <option_ios_device_type>3</option_ios_device_type>
-    <option_ios_display_name>itcg_game</option_ios_display_name>
+    <option_ios_display_name>newtutorial_platformer</option_ios_display_name>
     <option_ios_facebook_app_display_name></option_ios_facebook_app_display_name>
     <option_ios_facebook_appid></option_ios_facebook_appid>
     <option_ios_facebook_enable>false</option_ios_facebook_enable>
@@ -296,6 +312,9 @@
     <option_ios_icon_57>Configs\Default\ios\icons\icon57.png</option_ios_icon_57>
     <option_ios_icon_72>Configs\Default\ios\icons\icon72.png</option_ios_icon_72>
     <option_ios_icon_76>Configs\Default\ios\icons\icon76.png</option_ios_icon_76>
+    <option_ios_inmobi_enable>false</option_ios_inmobi_enable>
+    <option_ios_inmobi_id></option_ios_inmobi_id>
+    <option_ios_inmobi_test_enable>false</option_ios_inmobi_test_enable>
     <option_ios_interpolate>true</option_ios_interpolate>
     <option_ios_ipad_retina_splash_png>Configs\Default\ios\iPadRetinasplash.png</option_ios_ipad_retina_splash_png>
     <option_ios_ipad_retina_splash_portrait_png>Configs\Default\ios\iPadRetinasplashPortrait.png</option_ios_ipad_retina_splash_portrait_png>
@@ -326,17 +345,17 @@
     <option_ios_texture_page>1024</option_ios_texture_page>
     <option_ios_use_test_ads>false</option_ios_use_test_ads>
     <option_lastchanged></option_lastchanged>
-    <option_linux_display_name>itcg_game</option_linux_display_name>
+    <option_linux_display_name>newtutorial_platformer</option_linux_display_name>
     <option_linux_enable_steam>false</option_linux_enable_steam>
     <option_linux_fullscreen>false</option_linux_fullscreen>
-    <option_linux_homepage>http://www.itcg_game.com</option_linux_homepage>
+    <option_linux_homepage>http://www.newtutorial_platformer.com</option_linux_homepage>
     <option_linux_icon>Configs\Default\linux\icon64.png</option_linux_icon>
     <option_linux_interpolate>true</option_linux_interpolate>
-    <option_linux_long_desc>itcg_game</option_linux_long_desc>
+    <option_linux_long_desc>newtutorial_platformer</option_linux_long_desc>
     <option_linux_maintainer_email></option_linux_maintainer_email>
     <option_linux_scale>-1</option_linux_scale>
     <option_linux_screenkey>true</option_linux_screenkey>
-    <option_linux_short_desc>itcg_game</option_linux_short_desc>
+    <option_linux_short_desc>newtutorial_platformer</option_linux_short_desc>
     <option_linux_sizeable>false</option_linux_sizeable>
     <option_linux_splash_png>Configs\Default\linux\splash.png</option_linux_splash_png>
     <option_linux_steam_app_id>0</option_linux_steam_app_id>
@@ -355,7 +374,7 @@
     <option_mac_build_version>0</option_mac_build_version>
     <option_mac_copyright_info>(c)2012 CompanyName Ltd...</option_mac_copyright_info>
     <option_mac_create_app_store>true</option_mac_create_app_store>
-    <option_mac_display_name>itcg_game</option_mac_display_name>
+    <option_mac_display_name>newtutorial_platformer</option_mac_display_name>
     <option_mac_enable_steam>false</option_mac_enable_steam>
     <option_mac_fullscreen>false</option_mac_fullscreen>
     <option_mac_icon_png>Configs\Default\mac\icon512.png</option_mac_icon_png>
@@ -363,7 +382,7 @@
     <option_mac_major_version>1</option_mac_major_version>
     <option_mac_menu_dock>false</option_mac_menu_dock>
     <option_mac_minor_version>0</option_mac_minor_version>
-    <option_mac_output_dir>~/GameMaker-Studio/itcg_game</option_mac_output_dir>
+    <option_mac_output_dir>~/GameMaker-Studio/newtutorial_platformer</option_mac_output_dir>
     <option_mac_scale>-1</option_mac_scale>
     <option_mac_screenkey>true</option_mac_screenkey>
     <option_mac_showcursor>true</option_mac_showcursor>
@@ -438,9 +457,9 @@
     <option_textureGroup0_targets>$7fffffffffffffff</option_textureGroup0_targets>
     <option_textureGroup_count>1</option_textureGroup_count>
     <option_textureGroups0>Default</option_textureGroups0>
-    <option_tizen_app_id>http://yourdomain/itcg_game</option_tizen_app_id>
+    <option_tizen_app_id>http://yourdomain/newtutorial_platformer</option_tizen_app_id>
     <option_tizen_build_version>0</option_tizen_build_version>
-    <option_tizen_display_name>itcg_game</option_tizen_display_name>
+    <option_tizen_display_name>newtutorial_platformer</option_tizen_display_name>
     <option_tizen_flurry_enable>false</option_tizen_flurry_enable>
     <option_tizen_flurry_id></option_tizen_flurry_id>
     <option_tizen_google_analytics_enable>false</option_tizen_google_analytics_enable>
@@ -453,7 +472,7 @@
     <option_tizen_network_urls></option_tizen_network_urls>
     <option_tizen_orientation>0</option_tizen_orientation>
     <option_tizen_push_enable>false</option_tizen_push_enable>
-    <option_tizen_scaling>0</option_tizen_scaling>
+    <option_tizen_scaling>1</option_tizen_scaling>
     <option_tizen_splash_png>Configs\Default\tizen\splash.png</option_tizen_splash_png>
     <option_tizen_texture_page>1024</option_tizen_texture_page>
     <option_tizen_usesplash>false</option_tizen_usesplash>
@@ -477,7 +496,7 @@
     <option_win8_analytics_id></option_win8_analytics_id>
     <option_win8_build_version>0</option_win8_build_version>
     <option_win8_certificate_location>Windows8_TemporaryKey.pfx</option_win8_certificate_location>
-    <option_win8_display_name>itcg_game</option_win8_display_name>
+    <option_win8_display_name>newtutorial_platformer</option_win8_display_name>
     <option_win8_internet_capable>false</option_win8_internet_capable>
     <option_win8_interpolate>true</option_win8_interpolate>
     <option_win8_landscape_allowed>true</option_win8_landscape_allowed>
@@ -506,7 +525,7 @@
     <option_win8_wide_logo>Configs\Default\Windows8\logos\logo310.png</option_win8_wide_logo>
     <option_winUAP_build_version>0</option_winUAP_build_version>
     <option_winUAP_certificate_location>WinUWPRunner_TemporaryKey.pfx</option_winUAP_certificate_location>
-    <option_winUAP_display_name>itcg_game</option_winUAP_display_name>
+    <option_winUAP_display_name>newtutorial_platformer</option_winUAP_display_name>
     <option_winUAP_internet_capable>false</option_winUAP_internet_capable>
     <option_winUAP_interpolate>true</option_winUAP_interpolate>
     <option_winUAP_landscape_allowed>true</option_winUAP_landscape_allowed>
@@ -580,7 +599,7 @@
     <option_winphone_cycle_wide_image_8>Configs\Default\WinPhone\CycleWide8.png</option_winphone_cycle_wide_image_8>
     <option_winphone_cycle_wide_image_9>Configs\Default\WinPhone\CycleWide9.png</option_winphone_cycle_wide_image_9>
     <option_winphone_description>YourDescription</option_winphone_description>
-    <option_winphone_display_name>itcg_game</option_winphone_display_name>
+    <option_winphone_display_name>newtutorial_platformer</option_winphone_display_name>
     <option_winphone_flip_content_back></option_winphone_flip_content_back>
     <option_winphone_flip_content_front></option_winphone_flip_content_front>
     <option_winphone_flip_medium_back_image>Configs\Default\WinPhone\FlipMedBack.png</option_winphone_flip_medium_back_image>
@@ -622,7 +641,7 @@
     <option_xbone_background_colour>#464646</option_xbone_background_colour>
     <option_xbone_build_version>0</option_xbone_build_version>
     <option_xbone_description>Your Description</option_xbone_description>
-    <option_xbone_display_name>itcg_game</option_xbone_display_name>
+    <option_xbone_display_name>newtutorial_platformer</option_xbone_display_name>
     <option_xbone_events_manifest_index>-1</option_xbone_events_manifest_index>
     <option_xbone_foreground_text>light</option_xbone_foreground_text>
     <option_xbone_interpolation>true</option_xbone_interpolation>

@@ -5,9 +5,42 @@
   </Configs>
   <NewExtensions/>
   <sounds name="sound"/>
-  <sprites name="sprites"/>
+  <sprites name="sprites">
+    <sprite>sprites\spr_terreno</sprite>
+    <sprite>sprites\spr_player</sprite>
+    <sprite>sprites\spr_player2</sprite>
+    <sprite>sprites\spr_player3</sprite>
+    <sprite>sprites\spr_player4</sprite>
+    <sprite>sprites\spr_bullet</sprite>
+    <sprite>sprites\spr_dead</sprite>
+    <sprite>sprites\spr_dead2</sprite>
+    <sprite>sprites\spr_dead3</sprite>
+    <sprite>sprites\spr_dead4</sprite>
+    <sprite>sprites\spr_powerup1</sprite>
+  </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
+  <objects name="objects">
+    <object>objects\obj_player</object>
+    <object>objects\obj_player2</object>
+    <object>objects\obj_player3</object>
+    <object>objects\obj_player4</object>
+    <object>objects\obj_terreno</object>
+    <object>objects\obj_bullet</object>
+    <object>objects\obj_timer</object>
+    <object>objects\timeobj_player</object>
+    <object>objects\timeobj_player2</object>
+    <object>objects\timeobj_player3</object>
+    <object>objects\timeobj_player4</object>
+    <object>objects\obj_dead</object>
+    <object>objects\obj_dead2</object>
+    <object>objects\obj_dead3</object>
+    <object>objects\obj_dead4</object>
+    <object>objects\obj_powerup1</object>
+  </objects>
+  <rooms name="rooms">
+    <room>rooms\room0</room>
+  </rooms>
   <help>
     <rtf>help.rtf</rtf>
   </help>
